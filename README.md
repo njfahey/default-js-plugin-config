@@ -1,0 +1,1 @@
+# default-js-plugin-config
